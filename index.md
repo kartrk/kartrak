@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Ya
 
 
 ### Markdown
 
 
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
